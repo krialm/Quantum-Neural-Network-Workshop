@@ -1,0 +1,9 @@
+numpy
+matplotlib
+scikit-learn
+qiskit
+qiskit-ibm-runtime
+python-dotenv
+langchain-mcp-adapters
+aiohttp
+pylatexenc
